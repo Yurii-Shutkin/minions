@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/minions/static/css/main.c2b23238.css",
+    "main.js": "/minions/static/js/main.1dfe7c8e.js",
+    "static/media/burash.ogg": "/minions/static/media/burash.a2c0026659b4b526606e.ogg",
+    "static/media/shutkin.ogg": "/minions/static/media/shutkin.715ede9f3646a4f1698f.ogg",
+    "static/media/kareba.ogg": "/minions/static/media/kareba.2ea7b8e3e59a81867375.ogg",
+    "index.html": "/minions/index.html",
+    "main.c2b23238.css.map": "/minions/static/css/main.c2b23238.css.map",
+    "main.1dfe7c8e.js.map": "/minions/static/js/main.1dfe7c8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b23238.css",
+    "static/js/main.1dfe7c8e.js"
+  ]
+}
