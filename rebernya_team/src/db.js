@@ -6,9 +6,9 @@ import simonchiyk from './assets/img/simonchiyk.png'
 import stakhiv from './assets/img/stakhiv.png'
 import dubik from './assets/img/dubik.png'
 
-import karebaS from './assets/sound/kareba.ogg'
-import burashS from './assets/sound/burash.ogg'
-import shutkinS from './assets/sound/shutkin.ogg'
+import karebaS from './assets/sound/kareba.mp3'
+import burashS from './assets/sound/burash.mp3'
+import shutkinS from './assets/sound/shutkin.mp3'
 
 
 const team = [
